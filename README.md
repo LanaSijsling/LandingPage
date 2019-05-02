@@ -4,6 +4,6 @@
 - [X] make layout
 - [ ] add img
 - [ ] add text
-- [ ] add CTA
+- [X] Change CTA
 
 ![Sketch](Sketch_LandingPage.jpg)

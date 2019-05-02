@@ -40,8 +40,15 @@ body {
 }
 
 #cta {
-    align: center;
     width: fit-content;
     height: auto;
-    border: 2px solid #696969;
+    border: 2px solid #F4A460;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: #A52A2A;
+    color: #F4A460;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
