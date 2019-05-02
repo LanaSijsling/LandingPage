@@ -1,1 +1,47 @@
-ECHO is on.
+body {
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:#DCDCDC;
+    display:block;
+}
+
+.item1 {grid-area:foto;}
+.item2 {grid-area:info;}
+.item3 {grid-area:cta;}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+    'foto foto foto foto'
+    'info info info info'
+    'cta cta cta cta';
+    grid-column-gap: 0;
+    grid-row-gap: 10px;
+}
+
+.item1 {
+    height: 400px;
+    /*width: 25%;*/
+    background-color:#708090;
+    border-radius:100%;
+    border:3px dotted #696969;
+}
+
+.item2 {
+    /*width: 25%;*/
+    height: auto;
+    background-color:#708090;
+    text-align: center;
+    color:#D3D3D3;
+}
+.item3 {
+    text-align: center;
+}
+
+#cta {
+    align: center;
+    width: fit-content;
+    height: auto;
+    border: 2px solid #696969;
+}

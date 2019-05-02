@@ -1,7 +1,7 @@
 # LandingPage
 
 - [x] what is landing page? make sketch.
-- [ ] make layout
+- [X] make layout
 - [ ] add img
 - [ ] add text
 - [ ] add CTA
