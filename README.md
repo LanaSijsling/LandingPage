@@ -2,8 +2,9 @@
 
 - [x] what is landing page? make sketch.
 - [X] make layout
-- [ ] add img
-- [ ] add text
-- [X] Change CTA
+- [X] add img
+- [X] add text
+- [X] change CTA
+- [x] change font
 
 ![Sketch](Sketch_LandingPage.jpg)
