@@ -47,6 +47,7 @@ div {
     font-size: 22px;
     background-color: rgb(211, 35, 35);
     color: white;
+    cursor: pointer;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 5px;
@@ -55,5 +56,4 @@ div {
 
 #button:hover {
     filter: opacity(100%);
-    cursor: pointer;
 }
