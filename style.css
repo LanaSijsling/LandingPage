@@ -40,6 +40,7 @@ div {
 #button {
     width: fit-content;
     height: auto;
+    filter: opacity(90%);
     border: 2px solid white;
     border-radius: 50px;
     font-family: 'Architects Daughter';
@@ -52,53 +53,6 @@ div {
     padding-bottom: 5px;
 }
 
-
-
-/*
-.item1 {grid-area:foto;}
-.item2 {grid-area:info;}
-.item3 {grid-area:cta;}
-
-.grid-container {
-    display: grid;
-    grid-template-areas:
-    'foto foto foto foto'
-    'info info info info'
-    'cta cta cta cta';
-    grid-column-gap: 0;
-    grid-row-gap: 10px;
+#button:hover {
+    filter: opacity(100%);
 }
-
-.item1 {
-    height: 400px;
-    /*width: 25%;
-    background-color:#708090;
-    border-radius:100%;
-    border:3px dotted #696969;
-}
-
-.item2 {
-    /*width: 25%;
-    height: auto;
-    background-color:#708090;
-    text-align: center;
-    color:#D3D3D3;
-}
-.item3 {
-    text-align: center;
-}
-
-#cta {
-    width: fit-content;
-    height: auto;
-    border: 2px solid #F4A460;
-    border-radius: 50px;
-    font-size: 20px;
-    background-color: #A52A2A;
-    color: #F4A460;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-*/
