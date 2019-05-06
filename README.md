@@ -1,5 +1,7 @@
 # LandingPage
 
+Live demo: https://lanasijsling.github.io/LandingPage/
+
 - [x] what is landing page? make sketch.
 - [X] make layout
 - [X] add img
